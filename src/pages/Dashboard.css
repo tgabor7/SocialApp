@@ -7,3 +7,24 @@
     width: 100vw;
     background-color: wheat;
 }
+.upvote {
+    height: 60px;
+    width: 60px;
+}
+.downvote {
+    height: 60px;
+    width: 60px;
+}
+.upvote:hover {
+    color: green;
+}
+.downvote:hover {
+    color: red;
+}
+.content {
+    margin: 10px;
+}
+.comments:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}

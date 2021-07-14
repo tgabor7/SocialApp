@@ -15,7 +15,6 @@ function App() {
           <Route exact path='/login'>
         <Login />
       </Route>
-      
           <Route exact path=''>
           <Dashboard />
             </Route>  
